@@ -1,0 +1,23 @@
+export const nameBand = 'OPETH';
+export let nameSongs = [
+	"BLACKWATER PARK", /*1*/
+	"BLEAK", /*2*/
+	"CUSP OF ETERNITY", /*3*/
+	"ISOLATION YEARS", /*4*/
+	"LOVELORN CRIME", /*5*/
+	"BURDEN", /*6*/
+	"TO RID THE DISEASE", /*7*/
+	"TO BID YOU FAREWELL", /*8*/
+	"THE NIGHT AND THE SILENT WATER", /*9*/
+	"APRIL ETHERAL", /*10*/
+	"THE MOOR", /*11*/
+	"THE BAYING OF THE HOUNDS", /*12*/
+	"DELIVERANCE", /*13*/
+	"CONJURATION", /*14*/
+	"GHOST OF PERDITION", /*15*/
+	"WINDOWPANE", /*16*/
+	"SOLDIER OF FORTUNE", /*17*/
+	"HARVEST", /*18*/
+	"THE LEPER AFFINITY", /*19*/
+	"DIRGE FOR NOVEMBER", /*20*/
+]
